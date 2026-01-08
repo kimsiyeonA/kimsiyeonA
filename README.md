@@ -1,21 +1,78 @@
 ## Hi there 👋
 
-## Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-<br/><br/>
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![eGovFramework](https://img.shields.io/badge/eGovFramework-00599C?logo=spring&logoColor=white)
-<br/><br/>
-![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![VSCODE](https://camo.githubusercontent.com/dc2ea3cfd3c6c58a97171bbd6e78b0b983a6cf4a7f9c3e223b5126f2feaac9b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465) ![ECLIPSEIDE](https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-<br/><br/>
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![FIGMA](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-<br/><br/>
-![APACHMAVEN](https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+꾸준히 성장하고 새로운 도전을 즐기는 개발자입니다.  
+사용자 경험을 고려한 개발을 지향하며, 읽기 좋은 코드와 유지보수가 쉬운 구조를 중요하게 생각합니다.  
+실무에서 바로 활용 가능한 기술과 트렌드를 학습하며 더욱 발전해 나가고 있습니다. 🚀
 
 
-<br/>
-  
-## Github Stats
+---
 
-[![kimsiyeonA's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsiyeonA&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsiyeonA&layout=compact&hide=stars,contribs&count_private=true)
+## 🚀 Tech Stack
+
+### ⭐ Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
+
+### ⭐ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eGovFramework-00599C?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
+
+### ⭐ Tools & Environment
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### ⭐ Database / Design
+<p align="center">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimsiyeonA&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsiyeonA&layout=compact&count_private=true" />
+</p>
+
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimsiyeonA&theme=react-dark&hide_border=true"/>
+</p>
+
+
+---
+
+## 🌱 잔디 성장기
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kimsiyeonA&theme=tokyonight&hide_border=true" />
+</p>
+
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kimsiyeonA&style=for-the-badge"/>
+</p>
