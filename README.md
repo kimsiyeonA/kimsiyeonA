@@ -45,9 +45,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimsiyeonA&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kimsiyeonA&show_icons=true&theme=radical&cache_seconds=1"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsiyeonA&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsiyeonA&layout=compact&count_private=true&cache_seconds=1"/>
 </p>
 
 
@@ -64,8 +64,9 @@
 
 ## 🌱 잔디 성장기
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kimsiyeonA&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=kimsiyeonA&theme=react-dark&hide_border=true"/>
 </p>
+
 
 
 
