@@ -10,7 +10,7 @@
 ## 🚀 Tech Stack
 
 ### ⭐ Frontend
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -18,14 +18,14 @@
 </p>
 
 ### ⭐ Backend
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/eGovFramework-00599C?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 ### ⭐ Tools & Environment
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
@@ -34,7 +34,7 @@
 </p>
 
 ### ⭐ Database / Design
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
@@ -45,9 +45,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimsiyeonA&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimsiyeonA&show_icons=true&theme=radical"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsiyeonA&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsiyeonA&layout=compact"/>
 </p>
 
 
@@ -63,10 +63,10 @@
 ---
 
 ## 🌱 잔디 성장기
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kimsiyeonA&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kimsiyeonA&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 
 ---
