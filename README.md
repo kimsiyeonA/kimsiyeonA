@@ -64,7 +64,7 @@
 
 ## 🌱 잔디 성장기
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kimsiyeonA&theme=react-dark&hide_border=true"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kimsiyeonA&theme=react-dark&hide_border=true"/></a>
 </p>
 
 
