@@ -45,19 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimsiyeonA&show_icons=true&theme=radical&cache_seconds=1" style="width:60%;height:200px;"/><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimsiyeonA&layout=compact&count_private=true&cache_seconds=1" style="width:40%;height:200px;"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsiyeonA&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsiyeonA&layout=compact)
 </p>
-
-
----
-
-## 🔥 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimsiyeonA&theme=react-dark&hide_border=true"/>
-</p>
-
-
 
 ---
 
